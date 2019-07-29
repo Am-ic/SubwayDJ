@@ -1,0 +1,957 @@
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\Subway.exe.config
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\Subway.exe
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\Subway.pdb
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\EntityFramework.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\EntityFramework.xml
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\kccistc\source\repos\Subway\Subway\obj\Debug\Subway.csprojAssemblyReference.cache
+C:\Users\kccistc\source\repos\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+C:\Users\kccistc\source\repos\Subway\Subway\obj\Debug\Subway.XtraForm1.resources
+C:\Users\kccistc\source\repos\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.cache
+C:\Users\kccistc\source\repos\Subway\Subway\obj\Debug\Subway.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\source\repos\Subway\Subway\obj\Debug\Subway.csproj.CopyComplete
+C:\Users\kccistc\source\repos\Subway\Subway\obj\Debug\Subway.exe
+C:\Users\kccistc\source\repos\Subway\Subway\obj\Debug\Subway.pdb
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\Subway.exe.config
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\Subway.exe
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\Subway.pdb
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Data.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Map.v19.1.Core.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraMap.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Images.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Data.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Map.v19.1.Core.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraMap.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csprojAssemblyReference.cache
+C:\git\DevExpressSubway\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+C:\git\DevExpressSubway\Subway\Subway\obj\Debug\Subway.XtraForm1.resources
+C:\git\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.cache
+C:\git\DevExpressSubway\Subway\Subway\obj\Debug\Subway.exe.licenses
+C:\git\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csproj.CoreCompileInputs.cache
+C:\git\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csproj.CopyComplete
+C:\git\DevExpressSubway\Subway\Subway\obj\Debug\Subway.exe
+C:\git\DevExpressSubway\Subway\Subway\obj\Debug\Subway.pdb
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\Subway.Data.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\Subway.Data.pdb
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\Subway.Data.dll.config
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\Subway.exe.config
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\Subway.exe
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\Subway.pdb
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Data.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Map.v19.1.Core.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraMap.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\Subway.Data.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Images.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\Subway.Data.pdb
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\Subway.Data.dll.config
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Data.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Map.v19.1.Core.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraMap.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csprojAssemblyReference.cache
+D:\GitHub\DevExpressSubway\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+D:\GitHub\DevExpressSubway\Subway\Subway\obj\Debug\Subway.XtraForm1.resources
+D:\GitHub\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.cache
+D:\GitHub\DevExpressSubway\Subway\Subway\obj\Debug\Subway.exe.licenses
+D:\GitHub\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csproj.CoreCompileInputs.cache
+D:\GitHub\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csproj.CopyComplete
+D:\GitHub\DevExpressSubway\Subway\Subway\obj\Debug\Subway.exe
+D:\GitHub\DevExpressSubway\Subway\Subway\obj\Debug\Subway.pdb
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraWizard.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraWizard.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraWizard.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraWizard.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\GitHub\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\Subway.exe.config
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\Subway.exe
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\Subway.pdb
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Data.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Map.v19.1.Core.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraMap.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.SqlServer.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\Subway.Data.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Images.v19.1.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\Subway.Data.pdb
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\Subway.Data.dll.config
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Data.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Map.v19.1.Core.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraMap.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\EntityFramework.SqlServer.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraWizard.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraWizard.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraWizard.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraWizard.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\tmp\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csprojAssemblyReference.cache
+C:\tmp\DevExpressSubway\Subway\Subway\obj\Debug\Subway.Properties.Resources.resources
+C:\tmp\DevExpressSubway\Subway\Subway\obj\Debug\Subway.XtraForm1.resources
+C:\tmp\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csproj.GenerateResource.cache
+C:\tmp\DevExpressSubway\Subway\Subway\obj\Debug\Subway.exe.licenses
+C:\tmp\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csproj.CoreCompileInputs.cache
+C:\tmp\DevExpressSubway\Subway\Subway\obj\Debug\Subway.csproj.CopyComplete
+C:\tmp\DevExpressSubway\Subway\Subway\obj\Debug\Subway.exe
+C:\tmp\DevExpressSubway\Subway\Subway\obj\Debug\Subway.pdb
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraWizard.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraWizard.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraWizard.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraWizard.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\git\DevExpressSubway\Subway\Subway\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.exe.config
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.exe
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.pdb
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Data.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Map.v19.1.Core.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraBars.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraMap.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.SqlServer.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.Data.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Office.v19.1.Core.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Images.v19.1.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.Data.pdb
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.Data.dll.config
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Data.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Map.v19.1.Core.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraBars.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraMap.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.SqlServer.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Office.v19.1.Core.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraWizard.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraWizard.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraWizard.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraWizard.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csprojAssemblyReference.cache
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.Properties.Resources.resources
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.XtraForm1.resources
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csproj.GenerateResource.cache
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.exe.licenses
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csproj.CoreCompileInputs.cache
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csproj.CopyComplete
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.exe
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.pdb
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.exe.config
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.exe
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.pdb
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Data.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Map.v19.1.Core.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraMap.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.SqlServer.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.Data.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Images.v19.1.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.Data.pdb
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.Data.dll.config
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Data.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Map.v19.1.Core.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraMap.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.SqlServer.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraWizard.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraWizard.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraWizard.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraWizard.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csprojAssemblyReference.cache
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.Properties.Resources.resources
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.XtraForm1.resources
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csproj.GenerateResource.cache
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.exe.licenses
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csproj.CoreCompileInputs.cache
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csproj.CopyComplete
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.exe
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.pdb
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.exe.config
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.exe
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.pdb
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Data.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Map.v19.1.Core.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraBars.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraMap.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.SqlServer.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.Data.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Office.v19.1.Core.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Images.v19.1.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.Data.pdb
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\Subway.Data.dll.config
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Data.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Map.v19.1.Core.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraBars.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraMap.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraWizard.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\EntityFramework.SqlServer.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\DevExpress.Office.v19.1.Core.xml
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraWizard.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraWizard.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraWizard.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraWizard.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+F:\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csprojAssemblyReference.cache
+F:\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.Properties.Resources.resources
+F:\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.XtraForm1.resources
+F:\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csproj.GenerateResource.cache
+F:\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.exe.licenses
+F:\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csproj.CoreCompileInputs.cache
+F:\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.csproj.CopyComplete
+F:\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.exe
+F:\Subway (조기현 차용우 황수창)\Subway\obj\Debug\Subway.pdb

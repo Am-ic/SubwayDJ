@@ -1,0 +1,83 @@
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\Subway.Console.exe.config
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\Subway.Console.exe
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\Subway.Console.pdb
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\EntityFramework.dll
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\Subway.Data.dll
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\Subway.Data.pdb
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\Subway.Data.dll.config
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\EntityFramework.xml
+C:\Users\kccistc\source\repos\Subway\Subway.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kccistc\source\repos\Subway\Subway.Console\obj\Debug\Subway.Console.csprojAssemblyReference.cache
+C:\Users\kccistc\source\repos\Subway\Subway.Console\obj\Debug\Subway.Console.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\source\repos\Subway\Subway.Console\obj\Debug\Subway.Console.csproj.CopyComplete
+C:\Users\kccistc\source\repos\Subway\Subway.Console\obj\Debug\Subway.Console.exe
+C:\Users\kccistc\source\repos\Subway\Subway.Console\obj\Debug\Subway.Console.pdb
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Console.exe.config
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Console.exe
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Console.pdb
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.dll
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Data.dll
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Data.pdb
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Data.dll.config
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.xml
+C:\git\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.csprojAssemblyReference.cache
+C:\git\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.csproj.CoreCompileInputs.cache
+C:\git\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.csproj.CopyComplete
+C:\git\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.exe
+C:\git\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.pdb
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Console.exe.config
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Console.exe
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Console.pdb
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.dll
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Data.dll
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Data.pdb
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Data.dll.config
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.xml
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.csprojAssemblyReference.cache
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.csproj.CoreCompileInputs.cache
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.csproj.CopyComplete
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.exe
+D:\GitHub\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.pdb
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Console.exe.config
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Console.exe
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Console.pdb
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.dll
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Data.dll
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Data.pdb
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\Subway.Data.dll.config
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.xml
+C:\tmp\DevExpressSubway\Subway\Subway.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\tmp\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.csprojAssemblyReference.cache
+C:\tmp\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.csproj.CoreCompileInputs.cache
+C:\tmp\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.csproj.CopyComplete
+C:\tmp\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.exe
+C:\tmp\DevExpressSubway\Subway\Subway.Console\obj\Debug\Subway.Console.pdb
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\Subway.Console.exe.config
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\Subway.Console.exe
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\Subway.Console.pdb
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\EntityFramework.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\EntityFramework.SqlServer.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\Subway.Data.dll
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\Subway.Data.pdb
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\Subway.Data.dll.config
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\EntityFramework.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\bin\Debug\EntityFramework.SqlServer.xml
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.csprojAssemblyReference.cache
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.csproj.CoreCompileInputs.cache
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.csproj.CopyComplete
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.exe
+Z:\D\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.pdb
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.csprojAssemblyReference.cache
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.csproj.CoreCompileInputs.cache
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.exe
+C:\sync\402W\DevexpressPractice\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.pdb
+F:\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.csprojAssemblyReference.cache
+F:\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.csproj.CoreCompileInputs.cache
+F:\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.exe
+F:\Subway (조기현 차용우 황수창)\Subway.Console\obj\Debug\Subway.Console.pdb
